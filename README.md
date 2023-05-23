@@ -2,7 +2,7 @@
 Post-apocalyse 2D open world with the gameplay goal of restoring human modern civilization and technologies from scratch.
 
 # Our Repos
-[Our own L2 Game Chain](https://github.com/The-Last-Resource/opStack)
+[Our own L2 Game Chain](https://github.com/The-Last-Resource/opStack)  
 [Game Client and Smart Contracts](https://github.com/The-Last-Resource/The-Last-Resource-MUD)
 
 ## Table of Contents
