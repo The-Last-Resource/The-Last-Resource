@@ -7,7 +7,7 @@ Post-apocalyse 2D open world with the gameplay goal of restoring human modern ci
 
 ## Table of Contents
 * [Project Description](#Project-Description)
-* [How it's Made](#'How-it's-Made')
+* [How it's Made](#"How-it's-Made")
 
 ## Project Description
 Imagine if you could create your own governments, communities, and your very own currencies in a truly open world that changes dynamically based on every other player in the world.
