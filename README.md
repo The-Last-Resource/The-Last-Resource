@@ -1,5 +1,7 @@
 # The Last Resource
-Post-apocalyse 2D open world with the gameplay goal of restoring human modern civilization and technologies from scratch.
+Post-apocalyse 2D open world with the gameplay goal of restoring human modern civilization and technologies from scratch.  
+![game](/image/game.png)
+
 
 # Our Repos
 [Our own L2 Game Chain](https://github.com/The-Last-Resource/opStack)  
